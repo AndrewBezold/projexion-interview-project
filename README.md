@@ -28,7 +28,9 @@ What are we looking for:
 
 
 axios had difficulties with jest, so just using fetch instead
+
 react-list-lazy-load is unmaintained, so using TanStack Virtual instead
+
 using DndContext for drag and drop sorting
 
 
